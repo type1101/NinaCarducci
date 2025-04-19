@@ -121,6 +121,13 @@ body {
 
 }
 
+.tags-bar .nav-link.active-tag {
+	background-color: gold !important;
+	color: white;
+	border-radius: 20px;
+}
+
+
 .visually-hidden{
 	display: none;
 	color: #ffffff !important;
